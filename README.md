@@ -22,6 +22,7 @@
 # 📖 Dicee Challenge <a name="about-project"></a>
 
 Got stuck while making decision? worry not! Dicee challenge got you coverd. 
+
 <img alt="project image" src="dice.gif"/>
 
 ## 🛠 Built With <a name="built-with"></a>
